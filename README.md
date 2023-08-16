@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CineGo**
 
-- 🌱 I’m currently learning **React Native, Redux Tolkit and MongoDB**
+- 🌱 I’m currently learning **React Native, Redux Tolkit and Next Js**
 
 - 💬 Ask me about **React JS, CSS**
 
