@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **TezaShoes and Inmibiliaria Ruslux**
+- 🔭 I’m currently working on **TezaShoes and Inmobiliaria Ruslux**
 
 - 🌱 I’m currently learning **React Native, Redux Tolkit and Next Js**
 
